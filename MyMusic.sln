@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusic.Api", "MyMusic.Api\MyMusic.Api.csproj", "{4E82FDF6-A3C2-4351-A5E0-10D4AAC9D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusic.Core", "MyMusic.Core\MyMusic.Core.csproj", "{281BB52B-D379-4252-B197-8563BE8144C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusic.Data", "MyMusic.Data\MyMusic.Data.csproj", "{64888598-27D4-4B34-8797-B6585D21866A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusic.Services", "MyMusic.Services\MyMusic.Services.csproj", "{BD5CDFC7-821D-4C3A-81F9-A942A39F63F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E82FDF6-A3C2-4351-A5E0-10D4AAC9D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E82FDF6-A3C2-4351-A5E0-10D4AAC9D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E82FDF6-A3C2-4351-A5E0-10D4AAC9D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E82FDF6-A3C2-4351-A5E0-10D4AAC9D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281BB52B-D379-4252-B197-8563BE8144C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281BB52B-D379-4252-B197-8563BE8144C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281BB52B-D379-4252-B197-8563BE8144C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281BB52B-D379-4252-B197-8563BE8144C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64888598-27D4-4B34-8797-B6585D21866A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64888598-27D4-4B34-8797-B6585D21866A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64888598-27D4-4B34-8797-B6585D21866A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64888598-27D4-4B34-8797-B6585D21866A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5CDFC7-821D-4C3A-81F9-A942A39F63F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5CDFC7-821D-4C3A-81F9-A942A39F63F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5CDFC7-821D-4C3A-81F9-A942A39F63F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5CDFC7-821D-4C3A-81F9-A942A39F63F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
